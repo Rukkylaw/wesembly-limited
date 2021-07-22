@@ -1,0 +1,104 @@
+/*
+  Flaticon icon font: Flaticon
+*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-brain:before { content: "\f100"; }
+.flaticon-brain-1:before { content: "\f101"; }
+.flaticon-brainstorm:before { content: "\f102"; }
+.flaticon-brain-2:before { content: "\f103"; }
+.flaticon-autism:before { content: "\f104"; }
+.flaticon-brain-3:before { content: "\f105"; }
+.flaticon-brain-4:before { content: "\f106"; }
+.flaticon-schizophrenia:before { content: "\f107"; }
+.flaticon-brain-5:before { content: "\f108"; }
+.flaticon-heart:before { content: "\f109"; }
+.flaticon-bipolar:before { content: "\f10a"; }
+.flaticon-mental-health:before { content: "\f10b"; }
+.flaticon-yin-yang:before { content: "\f10c"; }
+.flaticon-puzzle:before { content: "\f10d"; }
+.flaticon-telephone:before { content: "\f10e"; }
+.flaticon-shopping-bags:before { content: "\f10f"; }
+.flaticon-left-arrow:before { content: "\f110"; }
+.flaticon-right-arrow:before { content: "\f111"; }
+.flaticon-next:before { content: "\f112"; }
+.flaticon-brain-6:before { content: "\f113"; }
+.flaticon-back:before { content: "\f114"; }
+.flaticon-arrow-pointing-to-left:before { content: "\f115"; }
+.flaticon-arrow-pointing-to-right:before { content: "\f116"; }
+.flaticon-angle-pointing-to-left:before { content: "\f117"; }
+.flaticon-angle-arrow-pointing-to-right:before { content: "\f118"; }
+.flaticon-calendar:before { content: "\f119"; }
+.flaticon-play:before { content: "\f11a"; }
+.flaticon-baby-boy:before { content: "\f11b"; }
+.flaticon-check-mark:before { content: "\f11c"; }
+.flaticon-video-camera:before { content: "\f11d"; }
+.flaticon-group:before { content: "\f11e"; }
+.flaticon-quotation:before { content: "\f11f"; }
+.flaticon-shopping-basket:before { content: "\f120"; }
+.flaticon-left-quotes-sign:before { content: "\f121"; }
+.flaticon-baby-boy-1:before { content: "\f122"; }
+.flaticon-coach:before { content: "\f123"; }
+.flaticon-coach-1:before { content: "\f124"; }
+.flaticon-glove:before { content: "\f125"; }
+.flaticon-quote:before { content: "\f126"; }
+.flaticon-play-button:before { content: "\f127"; }
+.flaticon-play-button-1:before { content: "\f128"; }
+.flaticon-close:before { content: "\f129"; }
+.flaticon-plus:before { content: "\f12a"; }
+.flaticon-pharmacy:before { content: "\f12b"; }
+.flaticon-running:before { content: "\f12c"; }
+.flaticon-magnifying-glass:before { content: "\f12d"; }
+.flaticon-sexual-health:before { content: "\f12e"; }
+.flaticon-lifeline-in-a-heart-outline:before { content: "\f12f"; }
+.flaticon-neurology:before { content: "\f130"; }
+.flaticon-medical-kit:before { content: "\f131"; }
+.flaticon-individual:before { content: "\f132"; }
+.flaticon-bipolar-1:before { content: "\f133"; }
+.flaticon-double-angle-pointing-to-right:before { content: "\f134"; }
+.flaticon-mental-health-1:before { content: "\f135"; }
+.flaticon-medical:before { content: "\f136"; }
+.flaticon-idea:before { content: "\f137"; }
+.flaticon-bipolar-2:before { content: "\f138"; }
+.flaticon-oxygen:before { content: "\f139"; }
+.flaticon-scientist:before { content: "\f13a"; }
+.flaticon-email:before { content: "\f13b"; }
+.flaticon-neurology-1:before { content: "\f13c"; }
+.flaticon-women:before { content: "\f13d"; }
+.flaticon-clock:before { content: "\f13e"; }
+.flaticon-health:before { content: "\f13f"; }
+.flaticon-hospital-sign:before { content: "\f140"; }
+.flaticon-hospital:before { content: "\f141"; }
+.flaticon-first-aid-kit:before { content: "\f142"; }
+.flaticon-thinking:before { content: "\f143"; }
+.flaticon-psychology:before { content: "\f144"; }
+.flaticon-right-quotes-symbol:before { content: "\f145"; }
+.flaticon-brain-7:before { content: "\f146"; }
+.flaticon-brain-8:before { content: "\f147"; }
+.flaticon-book:before { content: "\f148"; }
+.flaticon-brain-9:before { content: "\f149"; }
+.flaticon-long-arrow-pointing-to-the-right:before { content: "\f14a"; }

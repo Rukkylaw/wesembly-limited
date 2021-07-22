@@ -1,0 +1,374 @@
+:root {
+  --theme-color: #0fb8cd;
+  --secondary-color: #e3ca94;
+}
+
+/*===== Primary Color =====*/
+
+/*===== Background Color =====*/
+.thm-bg,
+.thm-layer:before,
+.search-btn:hover,
+.search-btn:focus,
+.header-cart > span.cart-btn:hover,
+.header-cart > span.cart-btn:focus,
+.thm-btn.scndry-bg:before, 
+.thm-btn.scndry-bg:after,
+.thm-btn.bg-black:before,
+.thm-btn.bg-black:after,
+.slick-slider > button.slick-arrow:hover,
+.slick-slider > button.slick-arrow:focus,
+.slick-slider.feat-caro > button.slick-arrow:hover,
+.slick-slider.feat-caro > button.slick-arrow:focus,
+.serv-box:hover .serv-box-inner:before,
+.serv-box-inner:after,
+.serv-info2 > h3 a:hover,
+.serv-info2 > h3 a:focus,
+.thm-shp:after,
+.team-img:before,
+.online-portal-video > a:hover,
+.online-portal-video > a:focus,
+.prod-img > a.scndry-bg:hover,
+.prod-img > a.scndry-bg:focus,
+.ftr-gal-list li a:before,
+.scndry-bg .topbar-right > a.search-btn:hover, 
+.scndry-bg .topbar-right > a.search-btn:focus,
+.logo.v2:after,
+.feat-cap2 > span:not(.feat-cap-time):before,
+.feat-caro2.slick-slider > button.slick-arrow:hover,
+.feat-caro2.slick-slider > button.slick-arrow:focus,
+.special-box:after,
+.serv-box2.v2 .serv-info2 > h3 a:before,
+.serv-box2.v2 .serv-info2 > h3 a:hover,
+.serv-box2.v2 .serv-info2 > h3 a:focus,
+.bg-color11 .topbar-right > a.search-btn:hover,
+.bg-color11 .topbar-right > a.search-btn:focus,
+header.style3 nav > div > ul > li > a:after,
+.social-links4 > a:hover,
+.social-links4 > a:focus,
+.scndry-bg .find-thera-cap > a:hover,
+.scndry-bg .find-thera-cap > a:focus,
+.scndry-bg .thm-btn.bg-color5:before,
+.scndry-bg .thm-btn.bg-color5:after,
+.pagination li.page-item.prev a.page-link:hover, 
+.pagination li.page-item.next a.page-link:hover,
+.pagination li.page-item.prev a.page-link:focus, 
+.pagination li.page-item.next a.page-link:focus,
+.gallery-video-box > a.scndry-bg:hover,
+.gallery-video-box > a.scndry-bg:focus,
+.appointment-calendar .fc-header-toolbar,
+.scndry-layer .social-links3.v2 > a:hover,
+.scndry-layer .social-links3.v2 > a:focus,
+.widget-box.v3 ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li:hover > a:before,
+.widget-box.v3 ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li > a:hover:before,
+.widget-box.v3 ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li > a:focus:before,
+.insta-gal-list > li a:before,
+.comment-reply-wrap > h3:after,
+.slc-box:before,
+.additional-info > h3:after,
+.rspn-mnu-btn:hover,
+.rspn-mnu-btn:focus,
+.rspn-mnu-cls:hover,
+.rspn-mnu-cls:focus,
+.search-close-btn:hover,
+.search-close-btn:focus,
+.header-search > form button:hover,
+.header-search > form button:focus,
+.sticky-menu nav > div > ul > li:hover > a,
+.sticky-menu nav > div > ul > li.active > a,
+.sticky-menu nav > div > ul > li > a:focus,
+.slick-slider:not(.feat-caro) ul.slick-dots > li button:hover,
+.slick-slider:not(.feat-caro) ul.slick-dots > li button:focus,
+.slick-slider:not(.feat-caro) ul.slick-dots > li.slick-active button,
+.slick-slider.feat-caro ul.slick-dots > li button:hover,
+.slick-slider.feat-caro ul.slick-dots > li button:focus,
+.slick-slider.feat-caro ul.slick-dots > li.slick-active button,
+.proced-box.scndry-bg:hover,
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after
+{
+	background-color: var(--theme-color);
+}
+
+/*===== Text Color =====*/
+.thm-clr,
+.top-links > li a:hover,
+.top-links > li a:focus,
+.social-links > a:hover,
+.social-links > a:focus,
+.header-contact-info > li a:hover,
+.header-contact-info > li a:focus,
+nav ul li:hover > a,
+nav ul li.active > a,
+nav ul li > a:focus,
+.serv-box:hover > i,
+.simple-link.scndry-clr:hover,
+.simple-link.scndry-clr:focus,
+.serv-img2 > a:hover, 
+.serv-img2 > a:focus,
+.team-info > h3 a:hover,
+.team-info > h3 a:focus,
+.prod-info > h3 a:hover,
+.prod-info > h3 a:focus,
+.news-box-inner > h3 a:hover,
+.news-box-inner > h3 a:focus,
+.widget-box ul > li:hover,
+.widget-box ul > li a:hover,
+.widget-box ul > li a:focus,
+form.newsletter-form button:hover,
+form.newsletter-form button:focus,
+.copyright-links > p a:hover,
+.copyright-links > p a:focus,
+.bottom-links > li a:hover,
+.bottom-links > li a:focus,
+.about-play-btn.scndry-clr:hover,
+.about-play-btn.scndry-clr:focus,
+.live-video-img > a:hover,
+.live-video-img > a:focus,
+.storie-info > h3 a:hover,
+.storie-info > h3 a:focus,
+.news-info2 > h3 a:hover,
+.news-info2 > h3 a:focus,
+.scndry-bg .simple-link:hover,
+.scndry-bg .simple-link:focus,
+.feat-serv-box > h3 a:hover,
+.feat-serv-box > h3 a:focus,
+.banner-info > h3 a:hover,
+.banner-info > h3 a:focus,
+.course-info > h3 a:hover,
+.course-info > h3 a:focus,
+.video-box > a:not(.thm-btn):hover,
+.video-box > a:not(.thm-btn):focus,
+.news-info3 > h3 a:hover,
+.news-info3 > h3 a:focus,
+.news-img3 > a:hover,
+.news-img3 > a:focus,
+.bottom-bar.v3 p a:hover,
+.bottom-bar.v3 p a:focus,
+.about-video-box > a.scndry-clr:hover,
+.about-video-box > a.scndry-clr:focus,
+.scndry-layer .contact-info-box > span a:hover, 
+.scndry-layer .contact-info-box > span a:focus,
+.search-form button:hover,
+.search-form button:focus,
+.mini-post-info > h5 a:hover,
+.mini-post-info > h5 a:focus,
+.post-detail p a,
+.video-box > a:hover,
+.video-box > a:focus,
+.meta3 > li a:hover,
+.meta3 > li a:focus,
+figure > a:hover,
+figure > a:focus,
+.team-detail-info-meta > li a:hover,
+.team-detail-info-meta > li a:focus,
+.post-detail.blog-detail .social-links5 > span.thm-clr,
+.authr-meta > li a:hover,
+.authr-meta > li a:focus,
+.rating > a:hover,
+.rating > a:focus,
+.rspn-srch > button:hover,
+.rspn-srch > button:focus,
+.rspn-cnt > span a:hover,
+.rspn-cnt > span a:focus,
+.rsnp-mnu ul > li:hover > a,
+.rsnp-mnu ul > li.active-parent > a,
+.rsnp-mnu ul > li.active > a,
+.rsnp-mnu ul > li > a:focus,
+.serv-post-authr > a:hover,
+.serv-post-authr > a:focus,
+.course-athr a:hover,
+.course-athr a:focus,
+.serv-box4-inner > h3 a:hover,
+.serv-box4-inner > h3 a:focus,
+.testi-list-caro.slick-slider > button.slick-arrow:hover,
+.testi-list-caro.slick-slider > button.slick-arrow:focus,
+.scndry-layer .testi-list-caro.slick-slider > button.slick-arrow:hover,
+.scndry-layer .testi-list-caro.slick-slider > button.slick-arrow:focus,
+.meta > li a:hover,
+.meta > li a:focus,
+.meta2 > li a:hover,
+.meta2 > li a:focus,
+.course-info > span a:hover,
+.course-info > span a:focus,
+.proced-box > h4 a:hover,
+.proced-box > h4 a:focus,
+.minicart-info > h6 a:hover,
+.minicart-info > h6 a:focus,
+.minicart-info a.remove-cart:hover,
+.minicart-info a.remove-cart:focus
+{
+	color: var(--theme-color);
+}
+
+/*===== Border Color =====*/
+.thm-brd-clr,
+.pagination li.page-item.prev a.page-link:hover, 
+.pagination li.page-item.next a.page-link:hover, 
+.pagination li.page-item.prev a.page-link:focus, 
+.pagination li.page-item.next a.page-link:focus
+{
+	border-color: var(--theme-color);
+}
+
+.proced-box:before,
+.error-inner > i.thm-bg:after,
+.proced-box.scndry-bg:hover:before
+{
+	border-top-color: var(--theme-color);
+}
+
+.about-inner > span,
+.simple-link.thm-clr,
+.simple-link.scndry-clr:hover,
+.simple-link.scndry-clr:focus,
+.about-desc > span.thm-clr,
+.meta2 > li a:hover,
+.meta2 > li a:focus
+{
+	border-bottom-color: var(--theme-color);
+}
+
+
+{
+	border-left-color: var(--theme-color);
+}
+
+
+{
+	border-right-color: var(--theme-color);
+}
+
+
+/*===== Secondary Color =====*/
+
+/*===== Background Color =====*/
+.scndry-bg,
+.scndry-layer:before,
+.thm-bg .search-btn:hover,
+.thm-bg .search-btn:focus,
+header.style1 nav ul li:hover > a,
+header.style1 nav ul li.active > a,
+header.style1 nav ul li > a:focus,
+.thm-btn.thm-bg:before, 
+.thm-btn.thm-bg:after,
+.slick-slider.feat-caro > button.slick-arrow,
+.serv-box-inner:before,
+.scndry-shp:after,
+.serv-info2 > h3 a:before,
+.team-info:before,
+.prod-img > a.thm-bg:hover,
+.prod-img > a.thm-bg:focus,
+.widget-title:before,
+.widget-title:after,
+.feat-caro2.slick-slider > button.slick-arrow,
+.serv-box2.v2 .serv-info2 > h3 a:hover:before,
+.serv-box2.v2 .serv-info2 > h3 a:focus:before,
+.serv-box2.v2 .serv-info2 > h3 a,
+.thm-bg .find-thera-cap > a:hover,
+.thm-bg .find-thera-cap > a:focus,
+.course-info-bottom > span:not(:first-child):before,
+.special-box.thm-bg:after,
+.serv-box3:before,
+.pagination li.page-item.active a.page-link, 
+.pagination li.page-item a.page-link:hover,
+.pagination li.page-item a.page-link:focus,
+.pagination li.page-item.prev a.page-link, 
+.pagination li.page-item.next a.page-link,
+.gallery-box:before,
+.gallery-video-box > a.thm-bg:hover,
+.gallery-video-box > a.thm-bg:focus,
+td.fc-today,
+.fc .fc-row .fc-content-skeleton td.fc-today,
+.fc-unthemed td.fc-today,
+.contact-info-box:hover > i,
+.thm-layer .social-links3.v2 > a:hover,
+.thm-layer .social-links3.v2 > a:focus,
+.team-detail-info:before,
+.proced-box.thm-bg:hover
+{
+	background-color: var(--secondary-color);
+}
+
+/*===== Text Color =====*/
+.scndry-clr,
+.thm-bg .top-links > li a:hover,
+.thm-bg .top-links > li a:focus,
+.thm-bg .social-links > a:hover,
+.thm-bg .social-links > a:focus,
+.simple-link.thm-clr:hover,
+.simple-link.thm-clr:focus,
+.about-play-btn.thm-clr:hover,
+.about-play-btn.thm-clr:focus,
+.serv-box3:hover .serv-info3 > i,
+.thm-bg .simple-link:hover, 
+.thm-bg .simple-link:focus,
+ol.breadcrumb li.breadcrumb-item a:hover,
+ol.breadcrumb li.breadcrumb-item a:focus,
+ol.breadcrumb li.breadcrumb-item.active,
+.about-video-box > a.thm-clr:hover,
+.about-video-box > a.thm-clr:focus,
+.thm-layer .contact-info-box > span a:hover, 
+.thm-layer .contact-info-box > span a:focus,
+.post-detail ul li:before,
+.team-detail-wrap > ul li:before,
+.post-detail.blog-detail .social-links5 > span.scndry-clr,
+.post-detail p a:hover,
+.post-detail p a:focus,
+.sticky-menu.v2 nav > div > ul > li:hover > a,
+.sticky-menu.v2 nav > div > ul > li.active > a,
+.sticky-menu.v2 nav > div > ul > li > a:focus,
+.thm-layer .testi-list-caro.slick-slider > button.slick-arrow:hover,
+.thm-layer .testi-list-caro.slick-slider > button.slick-arrow:focus,
+.team-box:hover .team-info > span,
+.storie-box:hover .storie-info > span,
+.meta > li.thm-clr a:hover,
+.meta > li.thm-clr a:focus,
+.meta2 > li.thm-clr a:hover,
+.meta2 > li.thm-clr a:focus
+{
+	color: var(--secondary-color);
+}
+
+/*===== Border Color =====*/
+.scndry-brd-clr,
+.testi-nav-item > img,
+.pagination li.page-item.active a.page-link, 
+.pagination li.page-item a.page-link:hover,
+.pagination li.page-item a.page-link:focus,
+.pagination li.page-item.prev a.page-link, 
+.pagination li.page-item.next a.page-link,
+.preloader-inner:before
+{
+	border-color: var(--secondary-color);
+}
+
+.meta2 > li:not(.thm-clr) span:before,
+.error-inner > i.scndry-bg:after,
+.proced-box.thm-bg:hover:before
+{
+	border-top-color: var(--secondary-color);
+}
+
+.about-inner > span.scndry-clr,
+.simple-link.thm-clr:hover,
+.simple-link.thm-clr:focus,
+.simple-link.scndry-clr,
+.thm-bg .simple-link:hover, 
+.thm-bg .simple-link:focus,
+.about-desc > span.scndry-clr,
+.meta2 > li.thm-clr a:hover,
+.meta2 > li.thm-clr a:focus
+{
+	border-bottom-color: var(--secondary-color);
+}
+
+
+{
+	border-left-color: var(--secondary-color);
+}
+
+
+{
+	border-right-color: var(--secondary-color);
+}
