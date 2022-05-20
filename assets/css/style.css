@@ -3349,7 +3349,7 @@ form.newsletter-form button {
 }
 
 /*===== Bottom Bar Style 1 =====*/
-.bottom-bar {padding: 1.875rem 0;}
+.bottom-bar {padding: 1.875rem 0; background-color: #00B5DE;}
 .copyright-links > p {
   font-family: Nunito;
   font-size: .9375rem;
@@ -4027,6 +4027,8 @@ ul.bottom-links > li:not(:first-child):before {
 }
 .feat-cap3 {max-width: 40.9375rem;}
 .feat-cap3 > span {
+  text-decoration: underline;
+  color: white;
   font-size: 1.375rem;
   font-family: Nunito;
   font-weight: 500;
@@ -4034,11 +4036,10 @@ ul.bottom-links > li:not(:first-child):before {
 .feat-cap3 > span + h2 {margin-top: 10px;}
 .feat-cap3 > h2 {
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2.6rem;
   line-height: 3.4375rem;
   color: #fff;
-  max-width: 90%;
-}
+ }
 .feat-cap3 > h2 + p {margin-top: 12px;}
 .feat-cap3 > p {
   font-size: 1.125rem;

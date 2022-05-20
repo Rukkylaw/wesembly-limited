@@ -9,7 +9,7 @@ if(isset($_POST["fname"])) {
 	$message = isset( $_POST['contact_message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subject:|Content-Type:)/", "", $_POST['contact_message'] ) : "";
 	
 	//Headers
-	$to = "management@wessembly.com";
+	$to = "info@wessembly.com";
     $subject = "New Form submission";
 	$headers = "From: $senderEmail \r\n";
 	$headers .= "MIME-Version: 1.0\r\n";

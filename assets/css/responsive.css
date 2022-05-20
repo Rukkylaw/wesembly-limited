@@ -332,7 +332,7 @@ ul.meta > li:not(:first-child) {padding-left: 1rem;margin-left: 1rem;}
 .about-desc {margin-top: 3.125rem !important;}
 .feat-img-caro {max-height: 40rem;}
 .feat-img-caro .feat-img {min-height: 40rem;max-height: 40rem;}
-.feat-cap3-wrap {text-align: center;}
+.feat-cap3-wrap {text-align: left;}
 .feat-cap3 > h2 {max-width: 100%;}
 .serv-wrap3 > div.row > div:nth-child(4) .serv-box3 {border-left: 0;border-bottom: 0 !important;}
 .serv-wrap3 > div.row > div:last-child .serv-box3 {border-right: 0;}
@@ -442,6 +442,7 @@ ul.meta > li:not(:first-child) {padding-left: 1rem;margin-left: 1rem;}
 .enroll-inner > p br {display: none;}
 .error-inner {max-width: 80%;}
 .live-video-img > a {font-size: 5rem;}
+
 
 
 
@@ -701,8 +702,9 @@ ul.bottom-links > li {font-size: 1rem !important;}
 .special-box {margin-top: 1px;}
 .request-consult-wrap2 {padding: 3rem 2.5rem;}
 .request-consult-title2 > h3 {font-size: 1.85rem;line-height: 1.4;}
-.feat-cap3 > span {font-size: 1.25rem;}
-.feat-cap3 > h2 {font-size: 1.875rem;line-height: 1.4;}
+.feat-cap3 > span {font-size: 1.25rem; color: #00C3D8;}
+.feat-cap3 > h2 {font-size: 1.875rem;line-height: 1.4; color: #00C3D8;}
+.feat-cap3 > p {font-size: 1.2rem; color: #00C3D8;}
 .about-img .social-links4 {right: 2rem;}
 .sec-title2.v2 .sec-title2-inner > h2, 
 .sec-title2.v3 .sec-title2-inner > h2, 
